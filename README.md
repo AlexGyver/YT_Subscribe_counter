@@ -25,9 +25,9 @@ http://alexgyver.ru/arduino_shop/
 
 ## HOW TO
 
-	const char* ssid = "WIFI login";  
+`const char* ssid = "WIFI login";`  
 вместо **WIFI login** вписать логин вайфая для роутера  
-	const char* password = "WIFI pass";  
+`const char* password = "WIFI pass";`  
 вместо **WIFI pass** вписать пароль вайфая для роутера  
 
 `String host = "https://www.googleapis.com/youtube/v3/channels?part=statistics&key=(API KEY)&id=(CHANNEL ID)";`  
