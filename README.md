@@ -4,7 +4,7 @@
 
 **Библиотеки** - библиотека для модуля и дисплея, установить в C:\Program Files\Arduino\libraries
   
-**silver_button_count1.1** - первая версия системы
+**silver_button_count** - первая версия системы
 
 ## Схема
 В разработке
