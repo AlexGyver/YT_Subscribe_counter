@@ -7,7 +7,7 @@
 **silver_button_count** - первая версия системы
 
 ## Схема
-В разработке
+![СХЕМА](https://github.com/AlexGyver/YT_Subscribe_counter/blob/master/scheme.jpg)
 
 ##  Материалы и компоненты
 Всё указанное ниже можно найти здесь
