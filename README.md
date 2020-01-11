@@ -13,11 +13,12 @@
 Всё указанное ниже можно найти здесь
 http://alexgyver.ru/arduino_shop/
 
-* ESP 8266 v7 http://ali.pub/1876nc
-* Дисплей http://ali.pub/oitu5
-* Светодиоды http://ali.pub/1876nq
-* Понижайка http://ali.pub/1876op
-* Кнопки и прочее http://alexgyver.ru/electronics/
+* ESP8266 https://ali.ski/RMNXdG
+* USB программатор https://ali.ski/7O8txl
+* LCD 1602 I2C https://ali.ski/_HBB4
+* Понижайка https://ali.ski/5b45Eh
+* RGB LED https://ali.ski/rsJEDQ
+* Фоторезистор https://ali.ski/WfNP0
 
 ## Вам также пригодится 
 * Всё для пайки http://alexgyver.ru/all-for-soldering/
